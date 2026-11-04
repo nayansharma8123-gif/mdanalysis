@@ -1,0 +1,14 @@
+package/AUTHORS
+  h_578feb921d644c 290
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2bee350436c0dbe92970a45404cd97ea6989d88e",
+  "prompts": {},
+  "humans": {
+    "h_578feb921d644c": {
+      "author": "NAYAN SHARMA <nayansharma8123@gmail.com>"
+    }
+  }
+}
