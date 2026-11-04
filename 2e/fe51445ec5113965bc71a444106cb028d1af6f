@@ -1,0 +1,14 @@
+package/MDAnalysis/coordinates/LAMMPS.py
+  h_578feb921d644c 231,271,346,371,388,481,506,513,517,824,851,862,879,894
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2efe51445ec5113965bc71a444106cb028d1af6f",
+  "prompts": {},
+  "humans": {
+    "h_578feb921d644c": {
+      "author": "NAYAN SHARMA <nayansharma8123@gmail.com>"
+    }
+  }
+}
