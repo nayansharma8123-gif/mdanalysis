@@ -1,0 +1,16 @@
+testsuite/MDAnalysisTests/coordinates/base.py
+  h_578feb921d644c 72-74,84-86,92-93,209-211,242-244,288-290,295-297,308-310,338-340,411-412,435-436,499-501,575-577,587-589,623-625,667-669,678-680,685-687,692-694,698-700,702-704,807-809,1005-1007
+testsuite/MDAnalysisTests/coordinates/test_lammps.py
+  h_578feb921d644c 232-234,241-243,270-272,310-312,428-430,445-447,451-453,506-508,515-517,593-595,670-672,790-793,795-798,829-831,840-842,856-858,870-872,974-976,985-987,990-992,1072-1074
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "60f6c83db43d4f61ef9e307d85c7dd45066fe6ca",
+  "prompts": {},
+  "humans": {
+    "h_578feb921d644c": {
+      "author": "NAYAN SHARMA <nayansharma8123@gmail.com>"
+    }
+  }
+}
